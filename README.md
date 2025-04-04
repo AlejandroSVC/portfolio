@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Alejandro Vásquez Córdova, PhD
 
 ## Data Scientist
