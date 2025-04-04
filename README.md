@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Alejandro Vásquez Córdova, PhD
 
@@ -8,11 +8,11 @@ Data Scientist
 
 Engineering, Social Sciences, PhD
 
-brain_small
+![imagen](docs/assets/images/brain_small.jpg)
 
 ## Portfolio
 
-banner-thin
+![imagen](docs/assets/images/banner_thin.jpg)
 
 ## Proyectos
 
