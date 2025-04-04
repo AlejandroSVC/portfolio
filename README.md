@@ -1,8 +1,8 @@
 # Portfolio
 
-Alejandro Vásquez Córdova, PhD
+## Alejandro Vásquez Córdova, PhD
 
-Data Scientist
+## Data Scientist
 
 ## Education
 
@@ -16,23 +16,27 @@ Engineering, Social Sciences, PhD
 
 ## Proyectos
 
-User Satisfaction – Machine Learning	https://tinyurl.com/UserSatLightGBM
+| Nombre proyecto                                    | Descripción                           |
+| -------------------------------------------------- | ------------------------------------- |
+| User Satisfaction – Machine Learning               | https://tinyurl.com/UserSatLightGBM   |
+| -------------------------------------------------- | ------------------------------------- |
+| Market Segmentation – K-means                      | https://tinyurl.com/MarkSgm           |
+| -------------------------------------------------- | ------------------------------------- |
+| Credit Risk Analysis – Machine Learning            | https://tinyurl.com/CreditRiskA       |
+| -------------------------------------------------- | ------------------------------------- |
+| Text Mining – Deep Learning                        | https://tinyurl.com/TextMiningDL      |
+| -------------------------------------------------- | ------------------------------------- |
+| Geospatial Analysis                                | https://tinyurl.com/GeoSpatRM         |
+| -------------------------------------------------- | ------------------------------------- |
+| Hierarchical Cluster Analysis                      | https://tinyurl.com/hclusterRM        |
+| -------------------------------------------------- | ------------------------------------- |
+| Website User Satisfaction – Machine Learning       | https://tinyurl.com/UserSatXGBoost    |
+| -------------------------------------------------- | ------------------------------------- |
+| Job Satisfaction - Machine Learning                | https://tinyurl.com/JobSatRidge       |
+| -------------------------------------------------- | ------------------------------------- |
+| Socioeconomic Segmentation - MCA analysis          | https://tinyurl.com/SocEc             |
+| -------------------------------------------------- | ------------------------------------- |
 
-Market Segmentation – K-means	https://tinyurl.com/MarkSgm
-
-Credit Risk Analysis – Machine Learning	https://tinyurl.com/CreditRiskA
-
-Text Mining – Deep Learning	https://tinyurl.com/TextMiningDL
-
-Geospatial Analysis	https://tinyurl.com/GeoSpatRM
-
-Hierarchical Cluster Analysis	https://tinyurl.com/hclusterRM
-
-Website User Satisfaction – Machine Learning	https://tinyurl.com/UserSatXGBoost
-
-Job Satisfaction - Machine Learning	https://tinyurl.com/JobSatRidge
-
-Socioeconomic Segmentation - MCA analysis	https://tinyurl.com/SocEc
 
 ## Work experience
 
