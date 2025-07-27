@@ -1,30 +1,27 @@
 ## Alejandro Vásquez Córdova, PhD
-## Data Scientist, Machine Learning Engineer
+### Data Scientist, Machine Learning Engineer
 
 ![imagen](docs/assets/images/brain_small.jpg)
 
 ## Proyectos
 
-| Nombre proyecto                                    | Descripción                           |
-| -------------------------------------------------- | ------------------------------------- |
-| User Satisfaction – Machine Learning               | https://tinyurl.com/UserSatLightGBM   |
-| -------------------------------------------------- | ------------------------------------- |
+User Satisfaction – Machine Learning  [LINK] (https://tinyurl.com/UserSatLightGBM/)
+
 | Market Segmentation – K-means                      | https://tinyurl.com/MarkSgm           |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Credit Risk Analysis – Machine Learning            | https://tinyurl.com/CreditRiskA       |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Text Mining – Deep Learning                        | https://tinyurl.com/TextMiningDL      |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Geospatial Analysis                                | https://tinyurl.com/GeoSpatRM         |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Hierarchical Cluster Analysis                      | https://tinyurl.com/hclusterRM        |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Website User Satisfaction – Machine Learning       | https://tinyurl.com/UserSatXGBoost    |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Job Satisfaction - Machine Learning                | https://tinyurl.com/JobSatRidge       |
-| -------------------------------------------------- | ------------------------------------- |
+
 | Socioeconomic Segmentation - MCA analysis          | https://tinyurl.com/SocEc             |
-| -------------------------------------------------- | ------------------------------------- |
 
 
 ## Work experience
