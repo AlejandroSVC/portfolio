@@ -1,9 +1,8 @@
-## Alejandro Vásquez Córdova, PhD
-### Data Scientist, Machine Learning Engineer
+## Alejandro Vásquez - Data Scientist, Machine Learning Engineer
 
 ![imagen](docs/assets/images/brain_small.jpg)
 
-## Proyectos
+## Proyectos:
 
 ⭐️ AWS - End-to-End Machine Learning                   [LINK](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
 
