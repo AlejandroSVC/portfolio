@@ -5,7 +5,7 @@
 
 ## Proyectos
 
-User Satisfaction – Machine Learning  [LINK] (https://tinyurl.com/UserSatLightGBM/)
+⭐️ User Satisfaction – Machine Learning     [LINK](https://tinyurl.com/UserSatLightGBM/)
 
 | Market Segmentation – K-means                      | https://tinyurl.com/MarkSgm           |
 
