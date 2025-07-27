@@ -1,16 +1,7 @@
 ## Alejandro Vásquez Córdova, PhD
-
-## Data Scientist
-
-## Education
-
-Engineering, Social Sciences, PhD
+## Data Scientist, Machine Learning Engineer
 
 ![imagen](docs/assets/images/brain_small.jpg)
-
-## Portfolio
-
-![imagen](docs/assets/images/banner_thin.jpg)
 
 ## Proyectos
 
