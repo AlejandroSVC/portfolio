@@ -83,7 +83,7 @@
    Para Municipio de San Javier, 2005.
 
 • “Estudio sobre la percepción de la comunidad de Santiago respecto del proyecto Barrio Universitario”.
-   Para Universidad Diego Portales, Facultad de Arquitectura, 2004.
+   Para U. Diego Portales, Facultad de Arquitectura, 2004.
 
 • “Estudio de opinión de usuarios de museos”.
    Para DIBAM, Dirección de Bibliotecas, Archivos y Museos, 2003.
