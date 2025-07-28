@@ -1,5 +1,5 @@
-## Alejandro Vásquez Córdova 
-### Data Scientist y Machine Learning Engineer
+# Alejandro Vásquez Córdova 
+### Data Scientist, Machine Learning Engineer
 
 ![imagen](docs/assets/images/brain_small.jpg)
 
