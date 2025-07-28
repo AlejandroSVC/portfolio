@@ -12,7 +12,7 @@
 
 ⭐️ DATABRICKS - End-to-End Machine Learning            [LINK](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
 
-⭐️ Big data - MLlib y PySpark                          [LINK](https://alejandrosvc.github.io/Bigdata_PySpark/)
+⭐️ BIG DATA - MLlib y PySpark                          [LINK](https://alejandrosvc.github.io/Bigdata_PySpark/)
 
 ⭐️ MLFLOW - End-to-End Machine Learning en AWS         [LINK](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
 
