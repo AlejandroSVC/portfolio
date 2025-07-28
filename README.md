@@ -54,9 +54,10 @@
 
 • Director de “Estudios para el Desarrollo”, 2017 to 2024.
 
-• Director de Etudies en “Market Insight, Opinion and Market Studies”, 2017.
+• Director de Estudios en “Market Insight, Opinion and Market Studies”, 2017.
 
-Estudios de Opinión y Satisfacción de Clientes
+## Estudios de Opinión y Satisfacción de Clientes
+
 • “Estudio de opinión de estudiantes universitarios”.
    Para Estudios para el Desarrollo, 2022.
 
