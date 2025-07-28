@@ -1,4 +1,5 @@
-## Alejandro Vásquez - Data Scientist, Machine Learning Engineer
+## Alejandro Vásquez Córdova 
+${\color{gray}Data \space Scientist \space y \space Machine \space Learning \space Engineer}$
 
 ![imagen](docs/assets/images/brain_small.jpg)
 
