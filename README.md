@@ -26,6 +26,8 @@
 
 ⭐️ Deep Learning - PyTorch y Hugging Face Transformers [LINK](https://alejandrosvc.github.io/DeepLearning--Analisis_de_Sentimiento_usando_PyTorch_y_Transformers/)
 
+⭐️ Auto ML                                             [LINK](https://alejandrosvc.github.io/AutoML/)
+
 ⭐️ Sistema de recomendación                            [LINK](https://alejandrosvc.github.io/Sistema_de_Recomendacion/)
 
 ⭐️ Análisis de Datos en Tiempo Real                    [LINK](https://alejandrosvc.github.io/Analisis_de_Datos_en_Tiempo_Real/)
