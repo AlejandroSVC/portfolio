@@ -21,6 +21,8 @@
 
 ⭐️  KUBEFLOW - End-to-End Machine Learning en AWS       [LINK](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
 
+⭐️  Pérdida de clientes                                 [LINK](https://alejandrosvc.github.io/perdida_de_clientes/)
+
 ⭐️  Gobernanza de datos                                 [LINK](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
 
 ⭐️  RAG en Databricks usando Langchain                  [LINK](https://alejandrosvc.github.io/RAG_en_Databricks_usando_Langchain/)
