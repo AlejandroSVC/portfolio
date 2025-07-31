@@ -5,53 +5,53 @@
 
 ## Proyectos:
 
-⭐️  AWS                                                 [LINK](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
+⭐️  AWS                                                 [Link](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
 
-⭐️  AZURE                                               [LINK](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
+⭐️  AZURE                                               [Link](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
 
-⭐️  GOOGLE CLOUD                                        [LINK](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
+⭐️  GOOGLE CLOUD                                        [Link](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
 
-⭐️  DATABRICKS                                          [LINK](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
+⭐️  DATABRICKS                                          [Link](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
 
-⭐️  BIG DATA                                            [LINK](https://alejandrosvc.github.io/Bigdata_PySpark/)
+⭐️  BIG DATA                                            [Link](https://alejandrosvc.github.io/Bigdata_PySpark/)
 
-⭐️  MLFLOW                                              [LINK](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
+⭐️  MLFLOW                                              [Link](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
 
-⭐️  METAFLOW                                            [LINK](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
+⭐️  METAFLOW                                            [Link](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
 
-⭐️  KUBEFLOW                                            [LINK](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
+⭐️  KUBEFLOW                                            [Link](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
 
-⭐️  Pérdida de clientes                                 [LINK](https://alejandrosvc.github.io/perdida_de_clientes/)
+⭐️  Pérdida de clientes                                 [Link](https://alejandrosvc.github.io/perdida_de_clientes/)
 
-⭐️  Gobernanza de datos                                 [LINK](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
+⭐️  Gobernanza de datos                                 [Link](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
 
-⭐️  RAG usando Langchain                                [LINK](https://alejandrosvc.github.io/RAG_en_Databricks_usando_Langchain/)
+⭐️  RAG usando Langchain                                [Link](https://alejandrosvc.github.io/RAG_en_Databricks_usando_Langchain/)
 
-⭐️  Deep Learning - PyTorch y Transformers  [LINK](https://alejandrosvc.github.io/DeepLearning--Analisis_de_Sentimiento_usando_PyTorch_y_Transformers/)
+⭐️  Deep Learning - PyTorch y Transformers  [Link](https://alejandrosvc.github.io/DeepLearning--Analisis_de_Sentimiento_usando_PyTorch_y_Transformers/)
 
-⭐️  Auto ML                                             [LINK](https://alejandrosvc.github.io/AutoML/)
+⭐️  Auto ML                                             [Link](https://alejandrosvc.github.io/AutoML/)
 
-⭐️  Sistema de recomendación                            [LINK](https://alejandrosvc.github.io/Sistema_de_Recomendacion/)
+⭐️  Sistema de recomendación                            [Link](https://alejandrosvc.github.io/Sistema_de_Recomendacion/)
 
-⭐️  Análisis de Datos en Tiempo Real                    [LINK](https://alejandrosvc.github.io/Analisis_de_Datos_en_Tiempo_Real/)
+⭐️  Análisis de Datos en Tiempo Real                    [Link](https://alejandrosvc.github.io/Analisis_de_Datos_en_Tiempo_Real/)
 
-⭐️  Riesgo Crediticio                                   [LINK](https://alejandrosvc.github.io/Analisis_de_Riesgo_Crediticio/)
+⭐️  Riesgo Crediticio                                   [Link](https://alejandrosvc.github.io/Analisis_de_Riesgo_Crediticio/)
 
-⭐️  Fraude Bancario                                     [LINK](https://alejandrosvc.github.io/Deteccion_de_Fraude_Bancario--Machine_Learning/)
+⭐️  Fraude Bancario                                     [Link](https://alejandrosvc.github.io/Deteccion_de_Fraude_Bancario--Machine_Learning/)
 
-⭐️  Análisis Geoespacial                                [LINK](https://alejandrosvc.github.io/Analisis_Geoespacial/)
+⭐️  Análisis Geoespacial                                [Link](https://alejandrosvc.github.io/Analisis_Geoespacial/)
 
-⭐️  lightGBM                                            [LINK](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
+⭐️  lightGBM                                            [Link](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
 
-⭐️  User Satisfaction – Machine Learning                [LINK](https://tinyurl.com/UserSatLightGBM/)
+⭐️  User Satisfaction – Machine Learning                [Link](https://tinyurl.com/UserSatLightGBM/)
 
-⭐️  Análisis de Conglomerados Jerárquico                [LINK](https://alejandrosvc.github.io/Analisis_de_Conglomerados_Jerarquico/)
+⭐️  Análisis de Conglomerados Jerárquico                [Link](https://alejandrosvc.github.io/Analisis_de_Conglomerados_Jerarquico/)
 
-⭐️  Regresion Ridge                                     [LINK](https://alejandrosvc.github.io/Analisis_Predictivo--Regresion_Ridge/)
+⭐️  Regresion Ridge                                     [Link](https://alejandrosvc.github.io/Analisis_Predictivo--Regresion_Ridge/)
 
-⭐️  Segmentación de Mercados                            [LINK](https://alejandrosvc.github.io/Segmentacion_de_Mercados---K-means_clustering/)
+⭐️  Segmentación de Mercados                            [Link](https://alejandrosvc.github.io/Segmentacion_de_Mercados---K-means_clustering/)
 
-⭐️  Satisfacción de Usuarios                            [LINK](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--Machine_Learning/)
+⭐️  Satisfacción de Usuarios                            [Link](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--Machine_Learning/)
 
 ## Experiencia laboral relacionada
 
