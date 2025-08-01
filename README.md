@@ -43,6 +43,8 @@
 
 ⭐️  lightGBM                                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
 
+⭐️  Reconocimiento de escritura a mano                  [Ver](https://alejandrosvc.github.io/Reconocimiento_de_Escritura_a_Mano/)
+
 ⭐️  User Satisfaction – Machine Learning                [Ver](https://tinyurl.com/UserSatLightGBM/)
 
 ⭐️  Análisis de Conglomerados Jerárquico                [Ver](https://alejandrosvc.github.io/Analisis_de_Conglomerados_Jerarquico/)
