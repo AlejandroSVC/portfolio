@@ -6,56 +6,42 @@
 ## Proyectos:
 
 ⭐️  AWS                                                 [Ver](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
-
 ⭐️  AZURE                                               [Ver](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
-
 ⭐️  GOOGLE CLOUD                                        [Ver](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
 
 ⭐️  AIRFLOW                                             [Ver](https://alejandrosvc.github.io/Airflow/)
-
 ⭐️  DATABRICKS                                          [Ver](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
-
-⭐️  BIG DATA                                            [Ver](https://alejandrosvc.github.io/Bigdata_PySpark/)
-
-⭐️  MLFLOW                                              [Ver](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
-
-⭐️  METAFLOW                                            [Ver](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
-
 ⭐️  KUBEFLOW                                            [Ver](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
 
+⭐️  Gobernanza de datos                                 [Ver](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
 ⭐️  Pérdida de clientes                                 [Ver](https://alejandrosvc.github.io/perdida_de_clientes/)
 
-⭐️  Gobernanza de datos                                 [Ver](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
-
 ⭐️  RAG usando Langchain                                [Ver](https://alejandrosvc.github.io/RAG_en_Databricks_usando_Langchain/)
-
-⭐️  Deep Learning - PyTorch y Transformers  [Ver](https://alejandrosvc.github.io/DeepLearning--Analisis_de_Sentimiento_usando_PyTorch_y_Transformers/)
-
-⭐️  Auto ML                                             [Ver](https://alejandrosvc.github.io/AutoML/)
-
 ⭐️  Sistema de recomendación                            [Ver](https://alejandrosvc.github.io/Sistema_de_Recomendacion/)
 
-⭐️  Análisis de Datos en Tiempo Real                    [Ver](https://alejandrosvc.github.io/Analisis_de_Datos_en_Tiempo_Real/)
-
 ⭐️  Riesgo Crediticio                                   [Ver](https://alejandrosvc.github.io/Analisis_de_Riesgo_Crediticio/)
-
 ⭐️  Fraude Bancario                                     [Ver](https://alejandrosvc.github.io/Deteccion_de_Fraude_Bancario--Machine_Learning/)
 
-⭐️  Análisis Geoespacial                                [Ver](https://alejandrosvc.github.io/Analisis_Geoespacial/)
+⭐️  BIG DATA                                            [Ver](https://alejandrosvc.github.io/Bigdata_PySpark/)
+⭐️  Análisis de Datos en Tiempo Real                    [Ver](https://alejandrosvc.github.io/Analisis_de_Datos_en_Tiempo_Real/)
 
-⭐️  lightGBM                                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
+⭐️  Deep Learning - PyTorch y Transformers  [Ver](https://alejandrosvc.github.io/DeepLearning--Analisis_de_Sentimiento_usando_PyTorch_y_Transformers/)
+⭐️  Auto ML                                             [Ver](https://alejandrosvc.github.io/AutoML/)
 
 ⭐️  Reconocimiento de escritura a mano                  [Ver](https://alejandrosvc.github.io/Reconocimiento_de_Escritura_a_Mano/)
-
 ⭐️  User Satisfaction – Machine Learning                [Ver](https://tinyurl.com/UserSatLightGBM/)
 
-⭐️  Análisis de Conglomerados Jerárquico                [Ver](https://alejandrosvc.github.io/Analisis_de_Conglomerados_Jerarquico/)
-
-⭐️  Regresion Ridge                                     [Ver](https://alejandrosvc.github.io/Analisis_Predictivo--Regresion_Ridge/)
-
 ⭐️  Segmentación de Mercados                            [Ver](https://alejandrosvc.github.io/Segmentacion_de_Mercados---K-means_clustering/)
-
 ⭐️  Satisfacción de Usuarios                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--Machine_Learning/)
+
+⭐️  MLFLOW                                              [Ver](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
+⭐️  METAFLOW                                            [Ver](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
+
+⭐️  Análisis Geoespacial                                [Ver](https://alejandrosvc.github.io/Analisis_Geoespacial/)
+⭐️  lightGBM                                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
+
+⭐️  Análisis de Conglomerados Jerárquico                [Ver](https://alejandrosvc.github.io/Analisis_de_Conglomerados_Jerarquico/)
+⭐️  Regresion Ridge                                     [Ver](https://alejandrosvc.github.io/Analisis_Predictivo--Regresion_Ridge/)
 
 ## Experiencia laboral relacionada
 
