@@ -1,17 +1,22 @@
 # Alejandro Vásquez Córdova 
-### Data Scientist, Machine Learning Engineer
+### Data Scientist
 
 ![imagen](docs/assets/images/brain_small.jpg)
 
 ## Proyectos:
 
+Cloud platforms:
 ⭐️  AWS                                                 [Ver](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
 ⭐️  AZURE                                               [Ver](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
 ⭐️  GOOGLE CLOUD                                        [Ver](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
 
+Orquestadores de machine learning:
 ⭐️  AIRFLOW                                             [Ver](https://alejandrosvc.github.io/Airflow/)
-⭐️  DATABRICKS                                          [Ver](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
 ⭐️  KUBEFLOW                                            [Ver](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
+⭐️  METAFLOW                                            [Ver](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
+
+⭐️  DATABRICKS                                          [Ver](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
+⭐️  MLFLOW                                              [Ver](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
 
 ⭐️  Gobernanza de datos                                 [Ver](https://alejandrosvc.github.io/Gobernanza_de_Datos/)
 ⭐️  Pérdida de clientes                                 [Ver](https://alejandrosvc.github.io/perdida_de_clientes/)
@@ -33,9 +38,6 @@
 
 ⭐️  Segmentación de Mercados                            [Ver](https://alejandrosvc.github.io/Segmentacion_de_Mercados---K-means_clustering/)
 ⭐️  Satisfacción de Usuarios                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--Machine_Learning/)
-
-⭐️  MLFLOW                                              [Ver](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
-⭐️  METAFLOW                                            [Ver](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
 
 ⭐️  Análisis Geoespacial                                [Ver](https://alejandrosvc.github.io/Analisis_Geoespacial/)
 ⭐️  lightGBM                                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--lightGBM/)
