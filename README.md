@@ -5,7 +5,7 @@
 
 ## Proyectos:
 
-Cloud platforms:
+Plataformas de la nube:
 ⭐️  AWS                                                 [Ver](https://alejandrosvc.github.io/AWS--End_to_End_Machine_Learning/)
 ⭐️  AZURE                                               [Ver](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
 ⭐️  GOOGLE CLOUD                                        [Ver](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
