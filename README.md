@@ -10,11 +10,10 @@ Plataformas de la nube:
 ⭐️  AZURE                                               [Ver](https://alejandrosvc.github.io/AZURE--End_to_End_Machine_Learning/)
 ⭐️  GOOGLE CLOUD                                        [Ver](https://alejandrosvc.github.io/GOOGLE_CLOUD--End_to_End_Machine_Learning/)
 
-Orquestadores de machine learning:
+Plataformas para machine learning:
 ⭐️  AIRFLOW                                             [Ver](https://alejandrosvc.github.io/Airflow/)
 ⭐️  KUBEFLOW                                            [Ver](https://alejandrosvc.github.io/KUBEFLOW--End_to_End_Machine_Learning_en_AWS/)
 ⭐️  METAFLOW                                            [Ver](https://alejandrosvc.github.io/METAFLOW----End_to_End_Machine_Learning_en_AWS/)
-
 ⭐️  DATABRICKS                                          [Ver](https://alejandrosvc.github.io/Databricks--End_to_End_Machine_Learning/)
 ⭐️  MLFLOW                                              [Ver](https://alejandrosvc.github.io/MLFLOW--End_to_End_Machine_Learning_en_AWS/)
 
