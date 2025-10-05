@@ -33,7 +33,6 @@ Plataformas para machine learning:
 ⭐️  Auto ML                                             [Ver](https://alejandrosvc.github.io/AutoML/)
 
 ⭐️  Reconocimiento de escritura a mano                  [Ver](https://alejandrosvc.github.io/Reconocimiento_de_Escritura_a_Mano/)
-⭐️  User Satisfaction – Machine Learning                [Ver](https://tinyurl.com/UserSatLightGBM/)
 
 ⭐️  Segmentación de Mercados                            [Ver](https://alejandrosvc.github.io/Segmentacion_de_Mercados---K-means_clustering/)
 ⭐️  Satisfacción de Usuarios                            [Ver](https://alejandrosvc.github.io/Satisfaccion_de_Usuarios--Machine_Learning/)
